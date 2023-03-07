@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.1.13
+
+### Patch Changes
+
+- [#2609](https://github.com/serverless-stack/sst/pull/2609) [`7cfcc2160`](https://github.com/serverless-stack/sst/commit/7cfcc21602bfbffe02e8597d570e7dcb0015fce0) Thanks [@justindra](https://github.com/justindra)! - `sst update` now also updates the version of `astro-sst`
+
 ## 2.1.12
 
 ### Patch Changes
